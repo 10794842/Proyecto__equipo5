@@ -51,3 +51,6 @@ li.dropdown {
 .dropdown:hover .dropdown-content {
   display: block;
 }
+h1.nueve {
+  text-shadow: 2px 2px 5px ligtblue;
+}
