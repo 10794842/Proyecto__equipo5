@@ -54,3 +54,14 @@ li.dropdown {
 h1.nueve {
   text-shadow: 2px 2px 5px grey;
 }
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {background-color: #f2f2f2;}
