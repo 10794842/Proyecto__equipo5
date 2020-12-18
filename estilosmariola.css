@@ -65,3 +65,8 @@ th, td {
 }
 
 tr:nth-child(even) {background-color: #f2f2f2;}
+ul.demo {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
