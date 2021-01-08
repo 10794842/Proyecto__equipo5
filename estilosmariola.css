@@ -109,7 +109,7 @@ div.desc {
   overflow: scroll;
   border: 1px solid #ccc;
 }
-a:link, a:visited {
+a.one:link, a.one:visited {
   background-color: #f44336;
   color: black;
   padding: 14px 25px;
@@ -118,6 +118,6 @@ a:link, a:visited {
   display: inline-block;
 }
 
-a:hover, a:active {
+a.one:hover, a.one:active {
   background-color: red;
 }
