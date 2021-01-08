@@ -110,8 +110,8 @@ div.desc {
   border: 1px solid #ccc;
 }
 a:link, a:visited {
-  background-color: #DEB887;
-  color: black;
+  background-color: #f44336;
+  color: white;
   padding: 14px 25px;
   text-align: center;
   text-decoration: none;
@@ -119,5 +119,5 @@ a:link, a:visited {
 }
 
 a:hover, a:active {
-  background-color: Burlywood;
+  background-color: red;
 }
