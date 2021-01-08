@@ -109,3 +109,15 @@ div.desc {
   overflow: scroll;
   border: 1px solid #ccc;
 }
+a:link, a:visited {
+  background-color: #DEB887;
+  color: black;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: Burlywood;
+}
