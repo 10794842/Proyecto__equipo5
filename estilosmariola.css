@@ -1,6 +1,16 @@
 p {
   text-align: center;
 }
+img {
+  opacity: 1.0;
+}
+
+img:hover {
+  opacity: 0.5;
+}
+h1 {
+  text-shadow: 2px 2px 2px grey;
+  }
 ul {
   list-style-type: none;
   margin: 0;
