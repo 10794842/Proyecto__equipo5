@@ -61,11 +61,10 @@ li.dropdown {
 
 . menú desplegable : desplazarse . dropdown-content {
   pantalla : bloque;  
+}
 
 
-
-
-}#overflowTest 
+#overflowTest 
   background: #A6C7D3;
   color: white;
   padding: 15px;
