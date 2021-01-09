@@ -59,8 +59,20 @@ li.dropdown {
 
 .dropdown-content a:hover {background-color: #f1f1f1;}
 
-.dropdown:hover .dropdown-content {
-  display: block;
+. menú desplegable : desplazarse . dropdown-content {
+  pantalla : bloque;  
+
+
+
+
+}#overflowTest 
+  background: #4CAF50;
+  color: white;
+  padding: 15px;
+  width: 50%;
+  height: 100px;
+  overflow: scroll;
+  border: 1px solid #ccc;
 }
 
 
